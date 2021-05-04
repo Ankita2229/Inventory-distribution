@@ -1,4 +1,4 @@
-# Inventory_distribution
+# Inventory-distribution
 * Add - .env to connect to Database
 * Run main.py to execute the project
 * Need to add some records to database to see differrent features
